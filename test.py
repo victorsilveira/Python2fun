@@ -1,0 +1,1 @@
+print ('hello my friend, how are u?')
